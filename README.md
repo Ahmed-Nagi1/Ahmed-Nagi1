@@ -7,9 +7,6 @@
 <p align="left">
   <a href="https://t.me/ahmednagi_0" target="blank">
     <img align="center" src="https://img.icons8.com/?size=100&id=k4jADXhS5U1t&format=png&color=000000" alt="Telegram" height="30" width="40" />
-    
-  <a href="https://linkedin.com/in/ahmed-nagi1" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
 
 </p>
 
