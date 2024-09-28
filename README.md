@@ -1,16 +1,19 @@
 <h1 align="center">Hi 👋, I'm Ahmed Nagi</h1>
 <h3 align="center">A Passionate Backend Developer</h3>
 
----
+<hr>
 
-<h3 align="left">🌐 Connect with me:</h3>
+<h3>🌐 Connect with me:</h3>
 <p align="left">
-  <a href="https://t.me/ahmednagi_1"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
-  <a 
----
+  <a href="https://t.me/ahmednagi_1">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+</p>
 
-<h3 align="left">🛠️ Languages and Tools:</h3>
-<p align="left">
+<hr>
+
+<h3>🛠️ Languages and Tools:</h3>
+<p>
   <!-- Programming Languages -->
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
@@ -84,10 +87,31 @@
   </a>
 </p>
 
----
+<hr>
 
-<!-- Language Chart -->
-<h3 align="left">📊 Most Used Languages:</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedNagi&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+<style>
+  /* Add hover effect to images */
+  a img {
+    transition: transform 0.3s ease;
+  }
+  a img:hover {
+    transform: scale(1.1);
+  }
+
+  /* Add animation to the GIF */
+  img[alt="Web Development"] {
+    animation: pulse 2s infinite;
+  }
+
+  @keyframes pulse {
+    0% {
+      transform: scale(1);
+    }
+    50% {
+      transform: scale(1.05);
+    }
+    100% {
+      transform: scale(1);
+    }
+  }
+</style>
