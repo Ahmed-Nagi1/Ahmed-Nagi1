@@ -1,20 +1,21 @@
 <h1 align="center">Hi 👋, I'm Ahmed Nagi</h1>
 <h3 align="center">A Passionate Backend Developer</h3>
 
-<hr>
+---
 
-<h3>🌐 Connect with me:</h3>
+### 🌐 Connect with me:
 <p align="left">
   <a href="https://t.me/ahmednagi_1">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
 </p>
 
-<hr>
+---
 
-<h3>🛠️ Languages and Tools:</h3>
+### 🛠️ Languages and Tools:
+
+#### Programming Languages:
 <p>
-  <!-- Programming Languages -->
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   </a>
@@ -24,8 +25,10 @@
   <a href="https://dart.dev" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40"/>
   </a>
+</p>
 
-  <!-- Web Development -->
+#### Web Development:
+<p>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
   </a>
@@ -38,13 +41,10 @@
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
   </a>
+</p>
 
-  <!-- Web Development GIF -->
-  <p align="center">
-    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Web Development" width="500"/>
-  </p>
-
-  <!-- Frameworks and Tools -->
+#### Frameworks and Tools:
+<p>
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/>
   </a>
@@ -57,11 +57,10 @@
   <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="NGINX" width="40" height="40"/>
   </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  </a>
+</p>
 
-  <!-- Databases -->
+#### Databases:
+<p>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
   </a>
@@ -71,8 +70,10 @@
   <a href="https://redis.io" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="40" height="40"/>
   </a>
+</p>
 
-  <!-- Additional Tools -->
+#### Additional Tools:
+<p>
   <a href="https://postman.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
   </a>
@@ -87,31 +88,8 @@
   </a>
 </p>
 
-<hr>
+---
 
-<style>
-  /* Add hover effect to images */
-  a img {
-    transition: transform 0.3s ease;
-  }
-  a img:hover {
-    transform: scale(1.1);
-  }
-
-  /* Add animation to the GIF */
-  img[alt="Web Development"] {
-    animation: pulse 2s infinite;
-  }
-
-  @keyframes pulse {
-    0% {
-      transform: scale(1);
-    }
-    50% {
-      transform: scale(1.05);
-    }
-    100% {
-      transform: scale(1);
-    }
-  }
-</style>
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Web Development" width="500"/>
+</p>
