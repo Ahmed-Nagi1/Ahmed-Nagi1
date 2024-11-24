@@ -42,7 +42,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
   </a>
   <a href="https://astro.build/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/withastro/astro/main/packages/icons/logos/astro-icon-dark.svg" alt="Astro" width="40" height="40"/>
+    <img src="https://astro.build/favicon.svg" alt="Astro" width="40" height="40"/>
   </a>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
