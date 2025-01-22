@@ -5,7 +5,7 @@
 
 ### 🌐 Connect with me:
 <p align="left">
-  <a href="https://t.me/ahmednagi_1">
+  <a href="https://t.me/Ahmed_Nagi1">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
 </p>
