@@ -1,4 +1,3 @@
-<h1 align="center">Hi, I'm Ahmed Nagi</h1>
 <h3 align="center">A Back-End Developer Specialized in Django</h3>
 
 ---
